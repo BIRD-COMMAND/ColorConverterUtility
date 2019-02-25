@@ -14,3 +14,7 @@ to something useful like this:
 - Clipboard text remains unchanged if conversion fails.
 - Logs a message to the console to provide a visual indication of success or failure.
 - Place the script in "Assets/Editor" in your project directory.
+
+### Preview (Gif/Webm)
+
+https://gfycat.com/ancientnaughtydrongo
